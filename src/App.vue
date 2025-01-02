@@ -14,11 +14,11 @@ var datosPaciente = {
 
 }
 var datosPrescriptor = {
-    nombre: "Bastián Alejandro Velásquez Flores",
+    nombre: "Daniel Arturo San Martín Martínez",
     profesion: "Médico Cirujano",
-    cedula: "20.362.619-3",
-    numero_registro: "860146",
-    mail:"contacto@drvelasquez.cl",
+    cedula: "20.283.646-1",
+    numero_registro: "861577",
+    mail:"dasanmartinm@gmail.com",
     direccion: "Av. Independencia 1027, 8380453 Santiago, Independencia, Región Metropolitana"
 }
 const solicitud = [];
